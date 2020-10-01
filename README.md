@@ -94,3 +94,8 @@
 #contact input, #contact textarea{
     width: 50%;
 }
+.btn1{
+    padding: 5px;
+    margin: 10px;
+    font-size: 0.9rem;
+}
